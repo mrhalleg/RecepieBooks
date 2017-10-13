@@ -1,0 +1,10 @@
+name: HallegsRecipieBooks
+version: 0.1.0
+main: plugin.Plugin
+commands: 
+  hallegsrecipebooks:
+    usage: /hbr <recepie|edit|books>
+    description: acces the commands of hallegs recepie books. Type "?" behind a Command to get more information.
+    aliases: [hrb]
+  test:
+    
