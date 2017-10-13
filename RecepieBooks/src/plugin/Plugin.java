@@ -32,8 +32,6 @@ public class Plugin extends JavaPlugin {
 		getServer().getPluginManager().registerEvents(new FuraceShiftClickFix(), this);
 
 		RecipeLoader.enable();
-
-		System.out.println("TEST");
 	}
 
 	public void setupCommands() {
